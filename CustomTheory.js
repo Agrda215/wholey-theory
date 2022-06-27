@@ -5,9 +5,9 @@ import { theory } from "./api/Theory";
 import { Utils } from "./api/Utils";
 
 var id = "wholey_theory";
-var name = "My Custom Theory";
-var description = "A basic theory.";
-var authors = "Gilles-Philippe Paillé";
+var name = "Wholey Theory";
+var description = "wowoowowowoowow";
+var authors = "Agrda215";
 var version = "1.0.0";
 
 var currency;
